@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+#logo {
+    width: 7%;
+}
+
+img{
+    width: 20%;
+    height:auto;
+}
